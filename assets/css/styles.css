@@ -213,7 +213,8 @@ img {
   width: 260px;
 }
 .home__blob {
-  fill: var(--first-color);
+  width: 200px;
+  height: 200px;
 }
 .home__blob-img {
   width: 360px;
